@@ -67,3 +67,6 @@ body{
 .user-list .user-info h4{
     font-size: 12px;
 }
+.user-list li:not(:last-of-type-type){
+    border-bottom: 1px solid #eee;
+}
