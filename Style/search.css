@@ -9,4 +9,9 @@ body{
     align-items: center;
     justify-content: center;
     height: 90vh; /* Change it depending on size */
+    overflow: hidden;
+    margin: 0;
+}
+.container{
+    border-radius: 5px;
 }
