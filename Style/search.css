@@ -70,3 +70,6 @@ body{
 .user-list li:not(:last-of-type-type){
     border-bottom: 1px solid #eee;
 }
+.user-list li.hide{
+    display: none;
+}
