@@ -8,7 +8,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 90vh; /* Change it depending on size */
+    height: 100vh; /* Change it depending on size */
     overflow: hidden;
     margin: 0;
 }
